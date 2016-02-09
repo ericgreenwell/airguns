@@ -1,0 +1,8 @@
+import time
+
+
+if __name__ == "__main__":
+
+    airgun_main.airgun_gui
+
+main()
